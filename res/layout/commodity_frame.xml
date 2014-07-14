@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/frame_background" 
+    >
+
+    <ImageView	
+        android:id="@+id/Frame_ImageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/scarf" />
+
+    <ImageView
+        android:id="@+id/Frame_ImageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pen" />
+
+    <ImageView
+        android:id="@+id/Frame_ImageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cateoff" />
+    <!--
+    <ImageView
+        android:id="@+id/Frame_ImageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cateon" />
+    -->
+
+</FrameLayout>

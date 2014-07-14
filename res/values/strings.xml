@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShoppingPlayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">購入リスト</string>
+    <!-- Navigation drawer用 -->
+    <string name="image_hint">navigation drawer image</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
